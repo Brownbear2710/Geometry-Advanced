@@ -2,10 +2,10 @@
 
 The repo is still incomplete and will be updated.
 
-## Covered Problems
+## Covered problems
 1. Minimum Diameter Circle
    
-## On-Going
+## Work in progress
 1. Visibility of interior of a polygon.
 
 ## Will be covered
