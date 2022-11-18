@@ -6,7 +6,7 @@ The repo is stil incomplete and will be updated.
 1. Minimum Diameter Circle
    
 ## On-Going
-1. Visibility
+1. Visibility of interior of a polygon.
 
 ## Will be covered
 1. Tangent on Convex-Hull.
