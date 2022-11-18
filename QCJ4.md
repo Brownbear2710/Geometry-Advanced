@@ -12,8 +12,8 @@ Ternary search.
 
 <details>
 <summary>Solution</summary>
-Let's say we know on which straight line, parallel to the x-axis, the center of the smallest enclosing circle exists. Now staying on that line, if we move to the left, we increase the distances of the points  from the center that are to the right and vice versa. So, on a straight line parallel to the x-axis, the ternary property exists.
-<img src= "https://github.com/Brownbear2710/Geometry-Advanced/blob/main/images/qcj4_1.jpg" alt="Fig.1a" style="height: 100px; width:100px;"/>
+Let's say we know on which straight line, parallel to the x-axis, the center of the smallest enclosing circle exists. Now staying on that line, if we move to the left, we increase the distances of the points  from the center that are to the right and vice versa. So, on a straight line parallel to the x-axis, the ternary property exists.<br>
+<img src= "https://github.com/Brownbear2710/Geometry-Advanced/blob/main/images/qcj4_1.jpg" alt="Fig.1a" style="height: 1000px; width:1000px;"/>
 
 </details>
 
