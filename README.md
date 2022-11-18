@@ -1,6 +1,6 @@
 # Geometry-Advanced
 
-The repo is stil incomplete and will be updated.
+The repo is still incomplete and will be updated.
 
 ## Covered Problems
 1. Minimum Diameter Circle
