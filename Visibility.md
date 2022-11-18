@@ -1,9 +1,10 @@
 # Problem
-Give a polygon and a point inside the polygon, you have to say if a person standing at that point can see the whole interior of that polygon. A person can see a point if there is nothing in between the person and the point.<br>
+Give a polygon and a point inside the polygon, you have to say if a person standing at that point can see the whole interior of that polygon. [ Note: A person can see a point if there is nothing in between the person and the point. ]<br>
 
 
 <details>
 <summary>Hint</summary>
+The sides of the polygon can create a triangle with negetive or positive area. Can you find the relation with the line of sight?
 </details>
 
 <details>
