@@ -14,8 +14,10 @@ Ternary search.
 <summary>Solution</summary>
 Let's say we know on which straight line, parallel to the x-axis, the center of the smallest enclosing circle exists. Now staying on that line, if we move to the left, we increase the distances of the points  from the center that are to the right and vice versa. So, on a straight line parallel to the x-axis, the ternary property exists.<br><br>
 <img src= "https://github.com/Brownbear2710/Geometry-Advanced/blob/main/images/qcj4_1.jpg" alt="Fig.1a" style="height: 500px; width:500px;"/> <br><br>
-Now, if we know on which straight line, parallel to the y-axis, the center of the smallest enclosing circle exists, we can also see that the ternary property along the y-axis exists.<br>
+Now, if we know on which straight line, parallel to the y-axis, the center of the smallest enclosing circle exists, we can also see that the ternary property along the y-axis exists.<br><br>
 <img src= "https://github.com/Brownbear2710/Geometry-Advanced/blob/main/images/qcj4_2.jpg" alt="Fig.1b" style="height: 500px; width:500px;"/> <br><br>
+So, now we can apply nested ternary search along both axes to find the smallest diameter of the circle that can cover all the points.<br><br>
+<img src= "https://github.com/Brownbear2710/Geometry-Advanced/blob/main/images/qcj4_3.jpg" alt="Fig.1b" style="height: 500px; width:500px;"/> <br><br>
 
 </details>
 
