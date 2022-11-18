@@ -1,5 +1,5 @@
 # [Problem](https://vjudge.net/problem/SPOJ-QCJ4)
-Given n points in a plane find the diameter of the smallest circle that encloses all the points. A point lying on the circle is also considered to be inside it.<br>
+Given n points in a 2D-plane find the diameter of the smallest circle that encloses all the points. A point lying on the circle is also considered to be inside it.<br>
 <details>
 <summary>Hint</summary>
 Ternary search.
